@@ -1,0 +1,3 @@
+/home/andre/Desktop/coursework/Arkanoid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andre/Desktop/coursework/Arkanoid/cmake-build-debug/CMakeFiles/Arkanoid.dir
+/home/andre/Desktop/coursework/Arkanoid/cmake-build-debug/CMakeFiles/edit_cache.dir

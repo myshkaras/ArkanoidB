@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Arkanoid" targetName="Arkanoid" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="391f99a7-841b-4780-8431-bde3fa858d63" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1RuTlH2yLJGYGqQKHulBIOrHLsd" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Arkanoid" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Arkanoid" TARGET_NAME="Arkanoid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Arkanoid" RUN_TARGET_NAME="Arkanoid">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="391f99a7-841b-4780-8431-bde3fa858d63" name="Default Changelist" comment="" />
+      <created>1570516131370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570516131370</updated>
+      <workItem from="1570516137047" duration="2596000" />
+      <workItem from="1570519930528" duration="178000" />
+      <workItem from="1570520245867" duration="26000" />
+      <workItem from="1570520314062" duration="47000" />
+      <workItem from="1570561880298" duration="71000" />
+      <workItem from="1570562046302" duration="492000" />
+      <workItem from="1570975767876" duration="769000" />
+      <workItem from="1570976616608" duration="191000" />
+      <workItem from="1570976829750" duration="3430000" />
+      <workItem from="1570982975079" duration="7829000" />
+      <workItem from="1571472702614" duration="597000" />
+      <workItem from="1571476081969" duration="4396000" />
+      <workItem from="1571482034714" duration="3983000" />
+      <workItem from="1571486654097" duration="2825000" />
+      <workItem from="1572201908834" duration="5538000" />
+      <workItem from="1575203524508" duration="1266000" />
+      <workItem from="1575206485492" duration="8884000" />
+      <workItem from="1575218715445" duration="393000" />
+      <workItem from="1575219130788" duration="10379000" />
+      <workItem from="1575288070461" duration="205000" />
+      <workItem from="1575299816781" duration="1054000" />
+      <workItem from="1575809044262" duration="28906000" />
+      <workItem from="1575868047125" duration="13595000" />
+      <workItem from="1575973640130" duration="557000" />
+      <workItem from="1575994772553" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

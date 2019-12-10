@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Levels Version="1">
+    <Level0>
+
+    </Level0>
+	<Level1>
+        <Brick ID="0" HP="1"></Brick>
+        <Brick ID="1" HP="2"></Brick>
+        <Brick ID="2" HP="3"></Brick>
+        <Brick ID="3" HP="4"></Brick>
+        <Brick ID="4" HP="5"></Brick>
+        <Brick ID="5" HP="6"></Brick>
+        <Brick ID="6" HP="0"></Brick>
+        <Brick ID="7" HP="0"></Brick>
+        <Brick ID="8" HP="0"></Brick>
+        <Brick ID="9" HP="0"></Brick>
+
+        <Brick ID="10" HP="0"></Brick>
+
+        <Brick ID="11" HP="0"></Brick>
+
+        <Brick ID="12" HP="0"></Brick>
+
+        <Brick ID="13" HP="0"></Brick>
+
+        <Brick ID="14" HP="0"></Brick>
+
+    </Level1>
+</Levels>
